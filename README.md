@@ -1,16 +1,16 @@
 <h1 align="center">😀 Hello 👋, I'm Raju Arelli</h1>
-<h3 align="center">A Passionate MERN Stack Developer from Hyderabad, India</h3>
+<h3 align="center">A Passionate Full-Stack Developer from Hyderabad, India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
 <p align="left"> <a href="https://x.com/RajuArellli?t=8iI4DMgECptXXUwnY2Cd6g&s=08" target="blank"><img src="https://img.shields.io/twitter/follow/RajuArellli?logo=twitter&style=for-the-badge" alt="x" /></a> </p>
 
-- 🌱 I’m currently learning **Springboot,Java **
-- 💬 I'm Good at **Data Structures & Algorithms, MERN Stack, Backend Development**
+- 🌱 I’m currently learning **Java, SpringBoot**
+- 💬 I'm Good at **Data Structures & Algorithms, Full Stack(MERN,JAVA), Backend Development**
 - 🚀 I’m working on **Personal Projects and DSA**
 - 📫 How to reach me **rajuarelli2182@gmail.com**
-- ⚡ Tech Explorer: **I love problem-solving, app development  and open-source contributions!**
+- ⚡ Tech Explorer: **I love problem-solving, web development  and open-source contributions!**
 - 🧐 **Actively looking for Full-time and Internships in SDE, Backend and Full-Stack Development**
 ---
 
