@@ -16,7 +16,7 @@
 
 ## 📬 Connect with Me:
 <p align="left">
-<a href="https://x.com/RajuArellli?t=8iI4DMgECptXXUwnY2Cd6g&s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/x.svg" alt="twitter" height="30" width="40" /></a>
+<a href="https://x.com/RajuArellli?t=8iI4DMgECptXXUwnY2Cd6g&s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
 <a href="[https://linkedin.com/in/akshay-arelli-b5476b32a/](https://www.linkedin.com/in/raju-arelli-704314240/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 </p>
 
